@@ -1,59 +1,21 @@
- 
-coding
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
-<head>
-  <title>Browser Characteristics</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      text-align: center;
-    }
-    .browser {
-      margin: 20px;
-      padding: 20px;
-      border: 1px solid #ccc;
-    }
-    .browser img {
-      width: 100px;
-      height: 100px;
-    }
-    .browser p {
-      margin-top: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Browser Characteristics</h1>
-  
-  <div class="browser">
-    <img src="chrome.png" alt="Google Chrome">
-    <h2>Google Chrome</h2>
-    <p>Fast and secure web browser developed by Google.</p>
-  </div>
-  
-  <div class="browser">
-    <img src="firefox.png" alt="Mozilla Firefox">
-    <h2>Mozilla Firefox</h2>
-    <p>A free and open-source web browser developed by Mozilla Foundation.</p>
-  </div>
-  
-  <div class="browser">
-    <img src="safari.png" alt="Safari">
-    <h2>Safari</h2>
-    <p>A web browser developed by Apple Inc.</p>
-  </div>
-  
-  <div class="browser">
-    <img src="edge.png" alt="Microsoft Edge">
-    <h2>Microsoft Edge</h2>
-    <p>A web browser developed by Microsoft.</p>
-  </div>
-  
-  <script>
-    // Additional JavaScript code can be added here if needed
-  </script>
+<head>REGISTER FOR A GIVEN COURSE</head>
+<form>
+<body text="blue">
+<h1>enter student name</h1>
+<input>text</input>
+<h2>telephone number</h2>
+<input>number</input>
+<h3>date of birth</h3>
+<input>date</input>
+<h4>adimission number</h4>
+<input>text</input>
+<h5>identify the course</h5>
+<input>CBIT OR CIT</input>
+<h6>gender option</h6>
+<input>male or female</input>
+<button type="submit">submit,/button>
+</form>
 </body>
-</html>
+</html> 
